@@ -1,0 +1,11 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+/.cache
+/.config
+/.upm
+/__pycache__
+/instance
+/venv
+
+.breakpoints
+replit_zip_error_log.txt
