@@ -2,6 +2,7 @@
 
 /.cache
 /.config
+/.pythonlibs
 /.upm
 /__pycache__
 /instance
